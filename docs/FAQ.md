@@ -49,9 +49,18 @@ Within your chosen category, you may select two or three major destinations for 
 
 ## 5. How many residential areas should I include?
 
-Participants should select approximately **10–15 residential areas** that provide good coverage across their city.
+Participants should select **up to 10 residential areas** that provide good coverage across their city.
 
-Residential areas should be represented by well-known bus stops, junctions, or landmarks.
+Each residential area should have a clearly identifiable starting point that commuters commonly use.
+
+Suitable starting points include:
+
+- Registered transport parks
+- Well-known bus stops
+- Major junctions
+- Other recognizable transport landmarks
+
+You do not need to force your data to reach 10 residential areas. Select locations that you are familiar with or can reasonably access and collect reliable data from.
 
 ---
 
@@ -75,29 +84,74 @@ Participants should record the fare paid for **each stage of the journey**.
 
 The total transportation fare is calculated from all stages of the journey.
 
----
-
-## 8. Do I have to collect data from registered motor parks?
-
-No.
-
-Transportation fares may be verified using drivers, conductors, or regular commuters.
-
-However, residential areas should be identified using major bus stops, junctions, or landmarks to ensure consistency.
+For example, if a commuter takes three buses to reach the destination, record the fare for each stage separately and calculate the total cost of the complete journey.
 
 ---
 
-## 9. How can I ensure my data is accurate?
+## 8. Do I have to use a registered transport park?
+
+No. Registered transport parks are **not the only acceptable starting points**.
+
+Participants can use:
+
+- Registered transport parks
+- Well-known bus stops
+- Major junctions
+- Other clearly identifiable transport landmarks
+
+The main requirement is that the starting point should be clear and recognizable so that the route and transportation cost can be understood and replicated by other participants.
+
+Registered transport parks can be particularly useful for residential areas where commuters need to travel a considerable distance to reach the selected destination, such as a university located far from the residential area.
+
+A registered transport park may serve as an important transport hub for such journeys.
+
+However, if a well-known bus stop or junction better represents how commuters normally begin the journey from a residential area, it can be used instead.
+
+Avoid using random or difficult-to-identify roadside boarding points simply to increase the number of routes.
+
+---
+
+## 9. How do I choose a route?
+
+For **each residential location or starting point, select one route** to the chosen destination.
+
+Choose the route based on how **common or practical** it is for commuters travelling from that starting point to the destination.
+
+If multiple routes or transportation options are available, do not record all of them. Select the **one route that is most commonly used or most practical** for commuters.
+
+You do not need to personally know the route before starting the project. You can ask students, commuters, drivers, conductors, or other people who regularly use the route.
+
+Once you have selected the route, record **each stage of the journey separately**.
+
+For example, if a commuter needs to take three buses to reach the destination, record the fare for each of the three stages and calculate the total transportation cost.
+
+---
+
+## 10. How can I ensure my data is accurate?
 
 Whenever possible:
 
-- Verify fares with drivers or regular commuters.
+- Verify fares with drivers, conductors, regular commuters, or other reliable sources.
 - Avoid estimating transportation costs.
+- Record the date the fare was collected or verified.
 - Review your entries before submitting your dataset.
+- Use the project's Excel template consistently.
 
 ---
 
-## 10. Where should I ask project-related questions?
+## 11. What if I cannot find 10 suitable residential areas or routes?
+
+That's okay.
+
+The project does **not** require you to force your data to reach a specific number.
+
+If fewer suitable residential areas or routes are available in your city, collect the locations and routes that can be reliably identified and reasonably accessed.
+
+The quality and consistency of the data are more important than reaching a particular number.
+
+---
+
+## 12. Where should I ask project-related questions?
 
 Please ask project-related questions in the project's WhatsApp community.
 
@@ -105,7 +159,7 @@ This allows everyone to learn from the discussion, contribute ideas, and help im
 
 ---
 
-## 11. What will I have when I complete the project?
+## 13. What will I have when I complete the project?
 
 By the end of the project, you will have:
 
@@ -118,7 +172,7 @@ By the end of the project, you will have:
 
 ---
 
-## 12. What happens after I complete my project?
+## 14. What happens after I complete my project?
 
 Once participants complete their individual city projects, the datasets will be combined into a larger collaborative dataset.
 

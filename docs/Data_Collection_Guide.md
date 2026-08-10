@@ -23,11 +23,30 @@ You may choose one or more destinations within your selected category depending 
 
 ## 2. Select Residential Areas
 
-Choose approximately 10–15 residential areas that provide good coverage across your city.
+Choose **up to 10 residential areas** that provide good coverage across your city.
 
-For consistency, each residential area should be identified using a well-known bus stop, junction, or landmark rather than a random roadside location.
+Each residential area should be represented by a clearly identifiable starting point that commuters commonly use.
 
-This makes the routes easier to identify, verify, and revisit during future rounds of data collection.
+Suitable starting points include:
+
+- Registered transport parks
+- Well-known bus stops
+- Major junctions
+- Other recognizable transport landmarks
+
+Avoid using random or difficult-to-identify roadside locations as starting points.
+
+Using clear reference points makes the routes easier to identify, verify, and revisit during future rounds of data collection.
+
+### Registered Transport Parks
+
+Registered transport parks can be particularly useful for residential areas where commuters need to travel a considerable distance to reach the selected destination.
+
+For example, if a university is located far from a residential area, a registered transport park may serve as an important transport hub from which commuters begin or continue their journey.
+
+However, registered transport parks are **not the only acceptable starting points**. A well-known bus stop, junction, or other clearly identifiable location can also be used where it better represents how commuters normally begin their journey.
+
+---
 
 ## 3. Planning Your Data Collection
 
@@ -46,12 +65,32 @@ Within your chosen category, select **2–3 major destinations** that are well k
 
 ### Choosing Residential Areas
 
-For each destination, identify approximately **10–15 residential areas** across your city.
+For each destination, identify **up to 10 residential areas** across your city.
 
-Each residential area should be represented by a **major bus stop, junction, or landmark** that commuters commonly use.
+Each residential area should be represented by a clearly identifiable starting point, such as:
+
+- A registered transport park
+- A major bus stop
+- A junction
+- Another recognizable transport landmark
 
 Using consistent reference points makes the routes easier to identify, verify, and compare across different participants.
 
+### Choosing Routes
+
+For **each residential location or starting point, select one route** to the chosen destination.
+
+Choose the route based on how **common or practical** it is for commuters travelling from that starting point to the destination.
+
+If multiple routes or transportation options are available, do not record all of them. Select the **one route that is most commonly used or most practical** for commuters.
+
+You do not need to personally know the route before starting the project. You can ask students, commuters, drivers, conductors, or other people who regularly use the route.
+
+If the selected route involves multiple stages of transportation, record each stage separately.
+
+You do not need to force your data to reach 10 residential areas or routes. If fewer suitable locations or routes are available, collect the routes that can be reliably identified rather than adding unreliable routes simply to reach a target number.
+
+---
 
 ## 4. Recording Transportation Fares
 
@@ -85,21 +124,25 @@ The final stage should show the complete transportation cost from the selected r
 
 The **Total Cost** for the route should equal the cumulative cost recorded at the final stop.
 
+---
 
 ## 5. Ensuring Data Quality
 
 To maintain a reliable and consistent dataset, participants should follow these guidelines:
 
 - Record transportation fares as accurately as possible.
-- Confirm fare information with drivers or regular commuters whenever possible.
+- Confirm fare information with drivers, conductors, or regular commuters whenever possible.
 - Avoid estimating transportation fares.
 - Record data using the project's Excel template.
 - Ensure all required fields are completed before submitting your dataset.
 - Record the date each route was surveyed.
 - Use consistent naming for locations, destinations, and landmarks throughout the project.
 - Review your entries for missing values or data entry errors before submission.
+- Avoid using difficult-to-identify roadside boarding points simply to increase the number of routes.
 
 Consistency across all participants is essential to ensure that the combined dataset can be analyzed reliably.
+
+---
 
 ## 6. Data Collection Tips
 
@@ -107,13 +150,30 @@ Before heading out to collect data:
 
 - Plan the routes you intend to survey.
 - Decide on the destinations you will cover before starting.
+- Identify suitable starting points for each residential area.
+- If available and appropriate, consider using registered transport parks as starting points, particularly where they serve as important transport hubs.
 - Carry a printed or digital copy of the Excel template.
 - If possible, collect data during similar periods of the day to improve consistency.
-- If a route has multiple transport options, record the route most commonly used by commuters.
+- If multiple routes are available from a starting point, select the route most commonly used or most practical for commuters.
+- Record only **one selected route per residential location or starting point**.
 - Review each completed route before moving on to the next one.
 
 Taking a few minutes to review your data while still on site can help prevent missing information and reduce the need for repeat visits.
 
+### Collecting Route Information
+
+You do not need to personally know every route before beginning your data collection.
+
+You can obtain route information from people who regularly use the routes, including:
+
+- Students
+- Regular commuters
+- Drivers
+- Conductors
+- Transport workers
+- Other people familiar with the area
+
+For example, if you are collecting data for a university, you can speak with students or other commuters at the university about how they travel from your selected residential areas and what they typically pay.
 
 ### Source Type
 
@@ -128,6 +188,7 @@ Examples include:
 
 This helps improve the transparency and reliability of the dataset.
 
+---
 
 ## 7. Before You Submit
 
@@ -143,6 +204,7 @@ Before uploading your completed project to the GitHub repository, review your wo
 - Your dashboard has been completed.
 - Your project report is ready for submission.
 
+---
 
 ## 8. Understanding the Excel Template
 
@@ -155,7 +217,7 @@ Some of the key fields include:
 | Column | Description |
 |---------|-------------|
 | Location | City where the data was collected |
-| Start_Point | Residential area where the journey begins |
+| Start_Point | Clearly identifiable starting point within the selected residential area |
 | Destination | Final destination |
 | Route_Type | Indicates whether the journey is direct or indirect |
 | Stop_Order | Order of each stage in the journey |
