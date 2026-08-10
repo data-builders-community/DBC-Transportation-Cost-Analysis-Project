@@ -98,38 +98,68 @@ Knowledge of SQL, Power BI, Python, or other analytics tools is an advantage but
 Participants will complete the project by following these steps:
 
 1. **Choose a Destination Category**
+
    - Select a destination category that is relevant to your city, such as universities, major markets, business districts, or government hospitals.
+   - Identify the specific destinations you want to analyze within your chosen category.
 
 2. **Plan Your Data Collection**
-   - Identify the destinations you want to analyze.
-   - Select residential areas using major bus stops or junctions as reference points.
+
+   - Select up to 10 residential areas that you are familiar with or can reasonably access.
+   - Identify a clearly recognizable starting point for each residential area, such as a registered transport park, well-known bus stop, major junction, or other transport landmark.
+   - For each residential location or starting point, identify **one common or practical route** to the selected destination.
+   - Registered transport parks can be particularly useful where commuters need to travel a considerable distance to reach the destination.
+   - You do not need to force your data to reach 10 residential areas or routes. Focus on locations and routes where reliable data can be collected.
 
 3. **Collect Transportation Fare Data**
+
    - Use the project's Excel template to record transportation fares and other required information.
-   - Verify fare information with drivers or regular commuters to ensure accuracy.
+   - Record the fare for each stage of the selected journey.
+   - If a journey involves multiple buses or other forms of transportation, record each stage separately and calculate the total cost of the journey.
+   - Verify fare information with drivers, conductors, regular commuters, or other reliable sources whenever possible.
+   - Record the date and source of the fare information where required.
 
 4. **Prepare and Clean the Data**
+
    - Review the collected data for completeness and consistency.
+   - Check for missing values, incorrect entries, and inconsistent location or destination names.
    - Organize the dataset so it is ready for analysis.
 
 5. **Analyze the Data**
+
    - Explore the dataset to identify trends, patterns, and opportunities.
    - Answer relevant business questions based on your chosen destination category.
+   - Compare transportation costs, routes, and other relevant factors within your selected locations and destinations.
 
 6. **Build an Interactive Dashboard**
+
    - Create visualizations that effectively communicate your findings.
-   - Highlight key insights and performance indicators.
+   - Highlight key insights, comparisons, and performance indicators.
+   - Use a data visualization tool of your choice, such as Excel, Power BI, Tableau, Looker Studio, or Python.
 
 7. **Prepare Your Report**
-   - Summarize your findings.
+
+   - Summarize your data collection process and findings.
+   - Explain the key insights identified from your analysis.
    - Present actionable recommendations supported by the data.
 
 8. **Submit Your Project**
-   - Upload your completed dataset and project files to the GitHub repository.
+
+   - Submit your completed project as a folder to the `participant-data/` directory using the following naming format:
+   
+     `[Participant-Name]-[City]-[State]`
+
+   - Your submission folder should contain all materials related to your completed project, including:
+     - Your completed transportation dataset
+     - Your project report
+     - Your dashboard or dashboard link
+     - Any other relevant project files or information
+
+   - Keep all files related to your project inside your submission folder.
 
 9. **Collaborative Analysis**
+
    - Once individual projects are completed, the datasets will be combined into a larger dataset for comparative analysis across multiple cities.
-  
+   - The combined dataset will allow participants to explore transportation patterns and differences across locations.
 
 ## Project Deliverables
 
