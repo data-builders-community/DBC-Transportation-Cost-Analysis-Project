@@ -164,12 +164,12 @@ Transportation-Cost-Analysis-Project/
 ├── docs/
 │   ├── Data_Collection_Guide.md
 │   └── FAQ.md
-├── templates/
-│   └── Transportation_Data_Template.xlsx
 ├── examples/
 │   └── Sample Dashboard
-└── participant-data/
-    └── City Datasets
+├── participant-data/
+│   └── City Datasets
+└── templates/
+    └── Transportation_Data_Template.xlsx
 ```
 
 The repository is organized to make it easy for participants to access project resources, submit their work, and collaborate throughout the project.
